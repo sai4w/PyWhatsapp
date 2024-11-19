@@ -1,5 +1,7 @@
 # PyWhatsapp
 
+PyWhatsapp is an automation tool designed to streamline WhatsApp messaging. It enables users to schedule and send messages and media to both saved and unsaved contacts via WhatsApp Web using Selenium.
+
 
 ## 🛠️ Features
 
